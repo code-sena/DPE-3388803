@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1280" viewBox="0 0 1800 1280">
+  <defs>
+    <style>
+      .title { font: 700 30px Arial, sans-serif; fill: #1f2937; }
+      .subtitle { font: 600 18px Arial, sans-serif; fill: #374151; }
+      .boxTitle { font: 700 18px Arial, sans-serif; fill: #111827; }
+      .boxText { font: 400 15px Arial, sans-serif; fill: #1f2937; }
+      .smallText { font: 400 14px Arial, sans-serif; fill: #374151; }
+      .pending { font: 700 14px Arial, sans-serif; fill: #b45309; }
+      .line { stroke: #6b7280; stroke-width: 2.5; fill: none; }
+      .panel { fill: #f8fafc; stroke: #cbd5e1; stroke-width: 2; rx: 18; ry: 18; }
+      .comp { fill: #dbeafe; stroke: #60a5fa; stroke-width: 2; rx: 20; ry: 20; }
+      .rap { fill: #dcfce7; stroke: #4ade80; stroke-width: 2; rx: 18; ry: 18; }
+      .ev { fill: #fef3c7; stroke: #f59e0b; stroke-width: 2; rx: 18; ry: 18; }
+      .pend { fill: #fee2e2; stroke: #f87171; stroke-width: 2; rx: 18; ry: 18; }
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#6b7280" />
+    </marker>
+  </defs>
+
+  <rect x="20" y="20" width="1760" height="1240" class="panel"/>
+
+  <text x="900" y="70" text-anchor="middle" class="title">DPE-3388798 · Desarrollo de Productos Electrónicos</text>
+  <text x="900" y="105" text-anchor="middle" class="subtitle">Mapa de evidencias de aprendizaje · Competencia 220501046</text>
+
+  <rect x="510" y="140" width="780" height="95" class="comp"/>
+  <text x="900" y="175" text-anchor="middle" class="boxTitle">Competencia: 220501046</text>
+  <text x="900" y="205" text-anchor="middle" class="boxText">Gestionar herramientas TIC según necesidades de procesamiento de información y comunicación</text>
+
+  <line x1="900" y1="235" x2="900" y2="280" class="line" marker-end="url(#arrow)"/>
+
+  <!-- Columna 1 -->
+  <rect x="70" y="300" width="380" height="170" class="comp"/>
+  <text x="260" y="332" text-anchor="middle" class="boxTitle">220501046-01</text>
+  <text x="95" y="365" class="boxText">Alistar herramientas de Tecnologías de</text>
+  <text x="95" y="388" class="boxText">la Información y la Comunicación (TIC),</text>
+  <text x="95" y="411" class="boxText">de acuerdo con las necesidades de</text>
+  <text x="95" y="434" class="boxText">procesamiento de información y comunicación.</text>
+
+  <rect x="70" y="515" width="380" height="120" class="rap"/>
+  <text x="260" y="545" text-anchor="middle" class="boxTitle">Actividad de aprendizaje (RAP)</text>
+  <text x="95" y="575" class="boxText">GA1-220501046-AA1</text>
+  <text x="95" y="600" class="boxText">Reconocer software de sistemas,</text>
+  <text x="95" y="622" class="boxText">software de programación y software</text>
+  <text x="95" y="644" class="boxText">de aplicaciones.</text>
+
+  <rect x="70" y="680" width="380" height="200" class="ev"/>
+  <text x="260" y="710" text-anchor="middle" class="boxTitle">Evidencia</text>
+  <text x="95" y="740" class="boxText">Mapa conceptual - software y</text>
+  <text x="95" y="763" class="boxText">servicios de Internet.</text>
+  <text x="95" y="798" class="smallText">Descripción:</text>
+  <text x="95" y="822" class="boxText">Relacionar correctamente los tipos de</text>
+  <text x="95" y="845" class="boxText">software y servicios de Internet.</text>
+  <text x="95" y="875" class="smallText">Código: GA1-220501046-AA1-EV01</text>
+
+  <rect x="70" y="920" width="380" height="120" class="pend"/>
+  <text x="260" y="952" text-anchor="middle" class="boxTitle">Criterios / Instrumento</text>
+  <text x="95" y="985" class="pending">Pendiente: no está en las entradas</text>
+  <text x="95" y="1010" class="smallText">Definir criterios de evaluación e</text>
+  <text x="95" y="1032" class="smallText">instrumento (lista de chequeo o rúbrica).</text>
+
+  <line x1="260" y1="470" x2="260" y2="515" class="line" marker-end="url(#arrow)"/>
+  <line x1="260" y1="635" x2="260" y2="680" class="line" marker-end="url(#arrow)"/>
+  <line x1="260" y1="880" x2="260" y2="920" class="line" marker-end="url(#arrow)"/>
+  <line x1="900" y1="280" x2="260" y2="300" class="line"/>
+
+  <!-- Columna 2 -->
+  <rect x="500" y="300" width="380" height="170" class="comp"/>
+  <text x="690" y="332" text-anchor="middle" class="boxTitle">220501046-02</text>
+  <text x="525" y="365" class="boxText">Aplicar funcionalidades de herramientas</text>
+  <text x="525" y="388" class="boxText">y servicios TIC, de acuerdo con manuales</text>
+  <text x="525" y="411" class="boxText">de uso, procedimientos establecidos y</text>
+  <text x="525" y="434" class="boxText">buenas prácticas.</text>
+
+  <rect x="500" y="515" width="380" height="120" class="pend"/>
+  <text x="690" y="545" text-anchor="middle" class="boxTitle">Actividad de aprendizaje (RAP)</text>
+  <text x="525" y="580" class="pending">Pendiente: no está en las entradas</text>
+  <text x="525" y="605" class="smallText">Falta RAP o actividad de aprendizaje.</text>
+
+  <rect x="500" y="680" width="380" height="120" class="pend"/>
+  <text x="690" y="710" text-anchor="middle" class="boxTitle">Evidencia</text>
+  <text x="525" y="745" class="pending">Pendiente: no está en las entradas</text>
+  <text x="525" y="770" class="smallText">Falta evidencia y código asociado.</text>
+
+  <rect x="500" y="845" width="380" height="120" class="pend"/>
+  <text x="690" y="875" text-anchor="middle" class="boxTitle">Criterios / Instrumento</text>
+  <text x="525" y="910" class="pending">Pendiente: no está en las entradas</text>
+  <text x="525" y="935" class="smallText">Definir criterios de evaluación e instrumento.</text>
+
+  <line x1="690" y1="470" x2="690" y2="515" class="line" marker-end="url(#arrow)"/>
+  <line x1="690" y1="635" x2="690" y2="680" class="line" marker-end="url(#arrow)"/>
+  <line x1="690" y1="800" x2="690" y2="845" class="line" marker-end="url(#arrow)"/>
+  <line x1="900" y1="280" x2="690" y2="300" class="line"/>
+
+  <!-- Columna 3 -->
+  <rect x="930" y="300" width="380" height="170" class="comp"/>
+  <text x="1120" y="332" text-anchor="middle" class="boxTitle">220501046-03</text>
+  <text x="955" y="365" class="boxText">Evaluar los resultados, de acuerdo con</text>
+  <text x="955" y="388" class="boxText">los requerimientos.</text>
+
+  <rect x="930" y="515" width="380" height="120" class="rap"/>
+  <text x="1120" y="545" text-anchor="middle" class="boxTitle">Actividad de aprendizaje (RAP)</text>
+  <text x="955" y="575" class="boxText">GA1-220501046-AA2</text>
+  <text x="955" y="600" class="boxText">Desarrollar un taller práctico sobre los</text>
+  <text x="955" y="622" class="boxText">términos y funcionalidades de la ofimática.</text>
+
+  <rect x="930" y="680" width="380" height="200" class="ev"/>
+  <text x="1120" y="710" text-anchor="middle" class="boxTitle">Evidencia</text>
+  <text x="955" y="740" class="boxText">Taller - utilización de las herramientas</text>
+  <text x="955" y="763" class="boxText">de ofimática.</text>
+  <text x="955" y="798" class="smallText">Descripción:</text>
+  <text x="955" y="822" class="boxText">Realizar un taller práctico con las</text>
+  <text x="955" y="845" class="boxText">herramientas ofimáticas.</text>
+  <text x="955" y="875" class="smallText">Código: GA1-220501046-AA2-EV01</text>
+
+  <rect x="930" y="920" width="380" height="120" class="pend"/>
+  <text x="1120" y="952" text-anchor="middle" class="boxTitle">Criterios / Instrumento</text>
+  <text x="955" y="985" class="pending">Pendiente: no está en las entradas</text>
+  <text x="955" y="1010" class="smallText">Definir criterios de evaluación e</text>
+  <text x="955" y="1032" class="smallText">instrumento (lista de chequeo o rúbrica).</text>
+
+  <line x1="1120" y1="470" x2="1120" y2="515" class="line" marker-end="url(#arrow)"/>
+  <line x1="1120" y1="635" x2="1120" y2="680" class="line" marker-end="url(#arrow)"/>
+  <line x1="1120" y1="880" x2="1120" y2="920" class="line" marker-end="url(#arrow)"/>
+  <line x1="900" y1="280" x2="1120" y2="300" class="line"/>
+
+  <!-- Columna 4 -->
+  <rect x="1360" y="300" width="380" height="170" class="comp"/>
+  <text x="1550" y="332" text-anchor="middle" class="boxTitle">220501046-04</text>
+  <text x="1385" y="365" class="boxText">Optimizar los resultados, de acuerdo</text>
+  <text x="1385" y="388" class="boxText">con la verificación.</text>
+
+  <rect x="1360" y="515" width="380" height="120" class="rap"/>
+  <text x="1550" y="545" text-anchor="middle" class="boxTitle">Actividad de aprendizaje (RAP)</text>
+  <text x="1385" y="575" class="boxText">GA1-220501046-AA3</text>
+  <text x="1385" y="600" class="boxText">Elaborar un informe con las mejoras de</text>
+  <text x="1385" y="622" class="boxText">producto orientado desde las TIC.</text>
+
+  <rect x="1360" y="680" width="380" height="175" class="ev"/>
+  <text x="1550" y="710" text-anchor="middle" class="boxTitle">Evidencia</text>
+  <text x="1385" y="740" class="boxText">Informe mejora de productos y</text>
+  <text x="1385" y="763" class="boxText">procesos con la incorporación de TIC.</text>
+  <text x="1385" y="800" class="smallText">Código: GA1-220501046-AA3-EV01</text>
+
+  <rect x="1360" y="920" width="380" height="120" class="pend"/>
+  <text x="1550" y="952" text-anchor="middle" class="boxTitle">Criterios / Instrumento</text>
+  <text x="1385" y="985" class="pending">Pendiente: no está en las entradas</text>
+  <text x="1385" y="1010" class="smallText">Definir criterios de evaluación e</text>
+  <text x="1385" y="1032" class="smallText">instrumento (lista de chequeo o rúbrica).</text>
+
+  <line x1="1550" y1="470" x2="1550" y2="515" class="line" marker-end="url(#arrow)"/>
+  <line x1="1550" y1="635" x2="1550" y2="680" class="line" marker-end="url(#arrow)"/>
+  <line x1="1550" y1="855" x2="1550" y2="920" class="line" marker-end="url(#arrow)"/>
+  <line x1="900" y1="280" x2="1550" y2="300" class="line"/>
+
+  <text x="900" y="1165" text-anchor="middle" class="subtitle">Estructura pedagógica: Competencia → Actividad de aprendizaje (RAP) → Evidencia → Criterios de evaluación / Instrumento</text>
+  <text x="900" y="1195" text-anchor="middle" class="smallText">Campos marcados como Pendiente requieren confirmación institucional para completar la guía de aprendizaje o el instrumento de evaluación.</text>
+</svg>

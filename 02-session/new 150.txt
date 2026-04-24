@@ -1,0 +1,41 @@
+* Presenta y explica los tipos de software en el mapa conceptual
+	Software
+		Software Plataforma (Sistmas Operativos)
+			Serevidores
+				Windows [Server]
+				Lunux [Server]
+			Equipos personales
+				PC
+					Windows 11
+					Lunux [Ubuntu]
+					Mac OS
+				Móvil
+					Android
+					iOS			
+		Software como servicio (aplicaciones) 
+			Estas son las herramientas que ayudan al usuario final, desarrollar las tareas del día a día
+			
+			Escritorio
+				Office [Libre Ofice / Microsoft Office]
+					- Word
+					- Excel
+					- Power Point
+				Hobbit
+					video juegos
+					multimedial
+				Aprendizaje / trabajo
+					modeler
+					diagrama 
+					diseño
+			Web	
+				Landing page
+				sistemas de información
+			Móvil
+				Office
+				Juegos
+				Entretenimiento
+
+		Software de progración
+		
+* Presenta y explica los servicios de internet en el mapa conceptual.
+
